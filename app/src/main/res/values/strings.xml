@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">p101-DailyGoals</string>
+    <string name="first"><b>Read up on materials before class today?</b> \n Did
+    I achieve this goal today?</string>
+
+    <string name="second"> <b><i>Arrive on time so as not
+        to miss important part of the lesson</i></b> \n
+    Did I achieve this goal today?</string>
+
+    <string name="third"><b>Attempt the problem myself?</b> \n
+    Did I achieve this goal today?</string>
+
+    <string name="last"><b>My personal reflection today</b> </string>
+</resources>
